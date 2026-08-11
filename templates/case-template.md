@@ -1,39 +1,59 @@
 # Case Title
 
-Status: Draft / Processed
+Status: Draft / Processed / DEMO
+Source Type: CASE
 Date:
 Source:
-Tags:
+Related Notes:
+
+Use this template only when the case itself is useful evidence. Do not create a Case just to save a summary.
+
+## Source / Context
+
+What is the case, where did it come from, and why was it worth noticing?
 
 ## What Happened
 
+External facts. Keep this separate from Harper's interpretation.
 
 ## Key Decision
 
-
-## Why It Worked
-
+What design, brand, business, product, or communication decision mattered most?
 
 ## Evidence
 
+What supports the reading of this case?
 
-## My Judgment
+## Interpretation
 
+What might this case mean?
 
-## What Changed My Mind
+## Harper's Current Judgment
 
+What does Harper currently think, if there is a clear judgment?
 
-## Transferable Insight
+## Changed My Mind
 
+Did this challenge or change a previous belief?
 
-## Related
+- Previous Position:
+- What Challenged It:
+- New Position:
+- Why:
 
-- Cases:
-- Insights:
-- Principles:
-- Methods:
-- Sources:
+## Transferable Learning
 
-## Notes
+What may transfer beyond this case?
 
+## Connections
 
+- Existing Insight supported:
+- Existing Insight challenged:
+- Working Thesis:
+- Principle Candidate:
+- Method Candidate:
+- Source Index:
+
+## Open Questions
+
+What still needs more evidence?
