@@ -2,7 +2,9 @@
 
 Reflection area for maintaining the knowledge system.
 
-This is not a normal work report.
+Review is not a work report and not a count of new files.
+
+Its job is to help Harper see the trajectory of her own thinking.
 
 Create:
 
@@ -10,14 +12,16 @@ Create:
 - Monthly Reflection
 - Quarterly Reflection
 
-Each Review should ask:
+## Review Questions
 
-- What did I learn during this period?
-- Which thoughts repeated?
+- Which thoughts repeated recently?
+- Which Insights are duplicates or overlaps?
 - Which Insights gained new evidence?
-- Which old views were overturned?
-- Can any Insight be upgraded to Principle?
-- Can any Principle become Method?
-- What question is most worth continuing?
+- Which thoughts met counter evidence?
+- Which views changed?
+- Which Working Theses became clearer?
+- Is any Insight mature enough to become Principle?
+- Did any Principle actually affect real work?
+- Did any Method fail or need revision?
 
 Use `templates/review-template.md` for new reviews.
