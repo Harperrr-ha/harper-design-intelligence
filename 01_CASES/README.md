@@ -1,19 +1,20 @@
 # 01_CASES
 
-Real brand and design cases.
+Real brand, design, product, business, or communication cases.
 
-A Case is not a saved reference. It is evidence for design judgment.
+A Case is a source of evidence, not the final knowledge asset. This folder should not become a case collection.
 
-Each Case should identify:
+Create or update a Case only when the case helps Harper understand a larger judgment.
 
-- What happened
-- Key Decision
-- Why it worked
-- Evidence
-- My Judgment
-- What changed my mind
-- Transferable Insight
-- Related notes
-- Source
+## Agent Questions
 
-Use `templates/case-template.md` for new cases.
+- What happened?
+- What decision mattered?
+- What evidence is available?
+- What is Harper's interpretation?
+- What Insight does this support?
+- Does it challenge an existing belief?
+- Is it only a source index item instead of a full Case?
+- What can transfer beyond this case?
+
+Use `templates/case-template.md` when a full Case note is necessary.
