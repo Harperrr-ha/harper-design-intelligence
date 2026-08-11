@@ -1,39 +1,77 @@
 # Harper Design Intelligence
 
-Harper Design Intelligence 是一个长期使用的个人设计知识系统。
+Harper Design Intelligence 是 Harper 的长期个人认知资产系统。
 
-它不是项目管理软件，也不是普通文件分类系统。它的目标是把每天阅读的品牌案例、设计案例、工作中的重要思考、与 AI 的深度讨论、真实项目经验，逐渐沉淀为属于 Harper 自己的：
+它不是：
+
+- 品牌案例收藏夹
+- 项目管理系统
+- 普通知识管理库
+- PDF 文件仓库
+- AI 自动总结库
+
+它的目标是持续记录：
+
+- Harper 看到了什么
+- Harper 如何理解
+- Harper 为什么这样判断
+- Harper 的判断如何变化
+- 哪些经验被反复验证
+- 哪些观点被推翻
+- 哪些原则逐渐稳定
+- 这些原则最终如何变成实际工作方法
+
+核心知识生长链是：
 
 ```text
-Case -> Insight -> Principle -> Method
+Experience / Source
+        -> Thinking
+        -> Insight
+        -> Validation
+        -> Principle
+        -> Method
 ```
 
-最终形成个人设计判断体系、方法论和职业知识资产。
+## The Simplest Way To Use This System
 
-## Core Idea
+Harper 不需要先判断材料属于哪个文件夹。
 
-知识不应该被过早整理成漂亮结论。这个仓库会保留思想成长和变化的过程。
-
-知识成熟度分为五个阶段：
+日常只需要做一件事：
 
 ```text
-SEED
-刚产生、还不成熟的想法
-
--> INSIGHT
-可以清晰表达的独立判断
-
--> VALIDATED INSIGHT
-已经被多个案例 / 项目经验支持
-
--> PRINCIPLE
-已经成为相对稳定的设计原则
-
--> METHOD
-已经可以指导实际工作的具体方法
+纳入 Design Intelligence：
+[粘贴任何原始内容]
 ```
 
-原则：不要把所有笔记直接变成 Principle。必须先保留来源、证据、反例、判断变化和开放问题。
+内容可以来自书、案例、文章、项目、设计评审、会议、AI 对话、观察、想法、问题、反思，或者一次 Changed Mind。
+
+Agent 的责任是理解、提取、比较、判断成熟度，并更新知识库。Harper 不负责每天手动创建文件、选择目录、维护链接、检查重复、更新 Knowledge Map 或判断 Insight 是否成熟。
+
+如果这个系统让 Harper 花大量时间管理知识库，说明系统设计失败。
+
+## What The Agent Will Do
+
+每次收到新材料，Agent 不应该立刻创建文件。标准流程是：
+
+1. Understand
+
+   理解来源、发生了什么、Harper 真正在讨论什么、哪些是外部事实、哪些是 Harper 的判断、哪些仍然只是猜测。
+
+2. Extract
+
+   判断是否存在 Evidence / Fact、Observation、Insight、Seed、Project Learning、Working Thesis、Open Question、Changed My Mind、Principle Candidate、Method Candidate。
+
+3. Compare
+
+   搜索现有知识，优先判断它是否更新、连接、验证或挑战已有内容，而不是马上创建新文件。
+
+4. Judge Maturity
+
+   按照 `SEED -> INSIGHT -> VALIDATED INSIGHT -> PRINCIPLE -> METHOD` 谨慎判断成熟度。一个案例不能直接产生 Principle。
+
+5. Update
+
+   只修改真正需要变化的部分：新增必要内容、更新已有内容、增加 Evidence / Counter Evidence、记录 Changed My Mind、建立连接，并在必要时更新 `KNOWLEDGE_MAP.md`。
 
 ## Repository Structure
 
@@ -54,102 +92,96 @@ AGENTS.md
 KNOWLEDGE_MAP.md
 ```
 
-## Daily Workflow
+这些目录仍然有用，但它们主要服务 Agent 的长期维护，不应该成为 Harper 每天的负担。
 
-1. 先进入 `00_INBOX/`。
+## How Sources Become Knowledge
 
-   把 AI 对话总结、突然产生的想法、工作反思、阅读笔记先放进这里。不要急着分类。
+Source 不是最终知识资产。
 
-2. 判断它是什么。
+一本书、一个案例、一篇文章、一次会议、一段 AI 对话、一个项目节点，本身只是来源。真正重要的是：
 
-   - 真实品牌 / 设计案例：进入 `01_CASES/`
-   - 独立判断或想法：进入 `02_INSIGHTS/`
-   - 长期问题但尚无稳定结论：进入 `05_WORKING_THESES/`
-   - 真实项目里的可迁移经验：进入 `06_PROJECT_LEARNINGS/`
-   - 未来可能变成文章、作品集表达、演讲的内容：进入 `07_WRITING/`
-   - 原始资料索引：进入 `08_SOURCES/`
+- 它让 Harper 看到了什么
+- Harper 是否认同
+- 为什么认同或不认同
+- 它支持了哪个已有 Insight
+- 它挑战了哪个旧判断
+- 它是否带来反例
+- 它是否让某个 Working Thesis 变清晰
 
-3. 建立连接。
+例如，读到一个品牌案例后，系统不应停在“保存案例总结”。它应该进一步判断：这个案例是否支持或挑战某个关于品牌资产、识别、规则、差异化或设计决策的思想。
 
-   每次新增内容，都尽量回答：它支持了哪个 Insight？它挑战了哪个 Principle？它能否成为某个 Method 的例子？
+## Maturity Rules
 
-4. 定期 Review。
+```text
+SEED
+刚产生、还不成熟的想法
 
-   在 `09_REVIEWS/` 做 Weekly / Monthly / Quarterly Reflection，专门判断哪些想法重复出现、哪些旧观点被推翻、哪些 Insight 可能升级。
+-> INSIGHT
+可以清晰表达的独立判断
 
-## After Reading A Brand Case
+-> VALIDATED INSIGHT
+被多个来源、案例或项目经验支持
 
-使用 `templates/case-template.md`。
+-> PRINCIPLE
+经过多次验证后，Harper 愿意在未来设计判断中继续使用的稳定认知
 
-重点不是收藏案例，而是提取判断：
+-> METHOD
+已经可以帮助 Harper 在真实工作中做出更好决定的可重复方法
+```
 
-- What happened
-- Key Decision
-- Why it worked
-- Evidence
-- My Judgment
-- What changed my mind
-- Transferable Insight
-- Related
-- Source
+不要把所有笔记直接变成 Principle。必须保留来源、证据、反例、适用边界、判断变化和开放问题。
 
-写完 Case 后，再判断是否需要创建或更新某个 Insight。
+## Working With Books
 
-## After A Deep AI Conversation
+这里不是普通读书笔记库。
 
-先放入 `00_INBOX/`，然后整理为：
+书籍讨论应该优先进入 Insight、Working Thesis、Principle 或 Method，而不是长期停留在章节摘要。
 
-- 新 Insight
-- Existing Insight 的新证据
-- 反例或冲突
-- Working Thesis
-- Writing draft
+Agent 应该判断：作者观点为什么让 Harper 在意？Harper 是否认同？它和 Harper 过去判断有什么关系？是否改变了 Harper 的认识？
 
-不要只做摘要。AI 对话的价值在于帮助 Harper 的判断变得更清晰，而不是生成一份漂亮笔记。
+## Working With Projects
 
-## After Important Work Reflection
+`06_PROJECT_LEARNINGS/` 不承担项目管理职能。
 
-如果来自真实项目，不做项目管理记录，只提取可迁移经验。
+不要维护项目进度、To Do、截止时间、会议流水账或文件版本。
 
-使用 `templates/project-learning-template.md`，重点记录：
+只保留真实项目中产生的可迁移知识：发生了什么、为什么重要、Harper 原来怎么想、后来意识到什么、是否可迁移、支持或挑战了哪个 Insight。
 
-- Origin Project
-- What Happened
-- What I Learned
-- Why It Matters
-- Transferable Insight
-- Related Principle / Method
+## Processing Result Format
 
-## When To Upgrade Insight To Principle
+每次完成一次知识归档后，默认用简短回执：
 
-只有当一个 Insight 同时满足这些条件，才考虑升级为 Principle：
+```text
+KNOWLEDGE UPDATE
 
-- 被多个 Case 或 Project Learning 支持
-- 有明确反例或适用边界
-- Harper 的判断已经相对稳定
-- 能影响实际设计决策
-- 在 Review 中被反复验证，而不是一次性冲动结论
+Source
+本次材料大致来源
 
-升级时，不要删除原 Insight。应在 Principle 中引用相关 Insight，并在 Insight 的 History 中记录升级过程。
+Most Important Development
+这次最值得保留的新认知
 
-## When To Form A Method
+Added
+真正新增了什么
 
-只有当一个 Principle 已经可以指导实际工作流程，才形成 Method。
+Updated
+哪些已有思想得到补充
 
-Method 必须能回答：
+Connections
+和过去哪些内容形成关联
 
-- Purpose
-- When to Use
-- Inputs
-- Steps
-- Decision Criteria
-- Common Mistakes
-- Examples
-- Related Principles
+Challenge / Changed My Mind
+是否出现冲突或认识变化
 
-Method 是可以拿来工作的，不是观点口号。
+Open Questions
+还有什么值得继续想
 
-## Demo Chain
+Maturity
+是否发生成熟度变化；如果没有，写 No maturity upgrade.
+```
+
+不要为了回执显得丰富而制造变化。
+
+## Demo Content
 
 仓库中包含一组明确标注为 `DEMO` 的虚构示例，用来展示：
 
