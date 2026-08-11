@@ -3,33 +3,44 @@
 Status: Candidate / Active / Needs Review
 Date Created:
 Last Updated:
-Tags:
+Related Notes:
 
-## What I Believe
+A Principle is not a polished slogan. Create or promote only when the judgment has been validated by multiple sources or real practice.
 
+## Statement
 
-## Why
+What stable judgment is Harper willing to use in future design decisions?
 
+## Why Harper Believes This
 
-## Evidence
+Explain the reasoning, not just the conclusion.
 
+## Supporting Evidence
+
+Use multiple sources when possible.
+
+- Insight:
 - Case:
 - Project Learning:
-- Insight:
+- Source:
+
+## Counter Evidence / Limits
+
+Where might this fail, become incomplete, or require conditions?
+
+## When It Applies
 
 
-## Applies When
+## When It Does Not Apply
 
 
-## Does Not Apply When
+## Impact On Practice
 
+How should this change actual design decisions?
 
 ## Related Insights
 
 
-## How It Affects Design Decisions
+## Changed My Mind / Review Notes
 
-
-## Review Notes
-
-
+Record future corrections instead of overwriting the old position.
