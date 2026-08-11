@@ -1,40 +1,57 @@
 # Knowledge Map
 
-This is not a table of contents. It is a living map of how Harper's design thoughts relate to each other.
+This is not a table of contents. It is a living map of how Harper's design thinking grows and connects.
 
-Update this file when new Cases, Insights, Principles, or Methods change the structure of the thinking system.
+Update this file only when relationships change. Do not update it for every small note.
 
-## Maturity Flow
+## Core Growth Chain
 
 ```text
-SEED -> INSIGHT -> VALIDATED INSIGHT -> PRINCIPLE -> METHOD
+Experience / Source
+        -> Thinking
+        -> Insight
+        -> Validation
+        -> Principle
+        -> Method
 ```
 
-## BRAND
+## How To Read This Map
+
+- `Source` means input material: book, case, project, article, meeting, design review, AI conversation, observation, idea, question, reflection, or changed mind.
+- `Thinking` means Harper's interpretation, doubt, agreement, disagreement, or early judgment.
+- `Insight` means a clear independent judgment.
+- `Validation` means multiple sources, cases, or project learnings support or challenge the judgment.
+- `Principle` means a stable view Harper is willing to use in future decisions.
+- `Method` means a repeatable way of working.
+
+## Current Knowledge Areas
+
+These areas are not filing categories for Harper. They are relationship zones for the Agent to maintain.
+
+### BRAND
 
 ```text
 Distinctive Assets
+    -> Usage Rules
     -> Consistency
     -> Recognition
     -> Brand System
 ```
 
-Related areas:
+Questions to watch:
 
-- Brand identity
-- Brand memory
-- Visual consistency
-- Recognition cues
-- Asset hierarchy
+- Are brand assets insufficient, or are usage rules unclear?
+- Which visual cues actually create recognition?
+- When does consistency help memory, and when does it become sameness?
 
-Current linked notes:
+Current DEMO chain:
 
 - `01_CASES/DEMO-case-flex-brew.md`
 - `02_INSIGHTS/DEMO-clear-choice-beats-more-choice.md`
 - `03_PRINCIPLES/DEMO-reduce-choice-to-increase-recognition.md`
 - `04_METHODS/DEMO-brand-choice-simplification-method.md`
 
-## PRODUCT
+### PRODUCT
 
 ```text
 User Experience
@@ -43,41 +60,38 @@ User Experience
     -> Product Decision
 ```
 
-Related areas:
+Questions to watch:
 
-- Product differentiation
-- Use scenario
-- Product form
-- Functional cues
-- Purchase decision
+- Does differentiation come from form, behavior, scenario, or system logic?
+- Which design variables actually affect user decision?
+- Which product insights transfer across categories?
 
 Current linked notes:
 
 - None yet
 
-## VISUAL
+### VISUAL
 
 ```text
 Art Direction
-Photography
-Composition
-Typography
-Material Expression
+    -> Photography
+    -> Composition
+    -> Typography
+    -> Material Expression
+    -> Visual Judgment
 ```
 
-Related areas:
+Questions to watch:
 
-- Image style
-- Visual hierarchy
-- Composition systems
-- Texture and material
-- Brand atmosphere
+- What makes a visual direction strategically useful rather than only attractive?
+- Which visual decisions carry brand meaning?
+- Which aesthetic judgments are repeatable enough to become method?
 
 Current linked notes:
 
 - None yet
 
-## PRACTICE
+### PRACTICE
 
 ```text
 Research
@@ -85,24 +99,44 @@ Research
     -> Review
     -> Decision Making
     -> AI Workflow
+    -> Transferable Learning
 ```
 
-Related areas:
+Questions to watch:
 
-- Case research
-- Design brief
-- Review quality
-- Decision criteria
-- AI-assisted design thinking
+- What improves design decisions before design starts?
+- Which review problems are actually brief problems?
+- Which AI workflows improve Harper's judgment instead of only producing output?
 
 Current linked notes:
 
 - None yet
 
-## Open Map Questions
+## Cross-Area Connections To Notice
 
-- Which ideas repeat across brand, product, visual, and practice?
-- Which Insights are becoming stable enough to become Principles?
-- Which Principles are close to becoming Methods?
-- Which areas are over-collected but under-validated?
-- Which assumptions have no counter evidence yet?
+- A Source can support multiple Insights across different areas.
+- A Project Learning can validate an Insight that originally came from a book or case.
+- A Changed Mind record may be more valuable than a new note.
+- A Principle should often connect BRAND / PRODUCT / VISUAL / PRACTICE, not live in isolation.
+- A Method should show how a stable thought changes real work decisions.
+
+## Review Questions
+
+During Weekly / Monthly / Quarterly Review, ask:
+
+- Which ideas repeated across different sources?
+- Which Insights are duplicates in different words?
+- Which Insights gained new evidence?
+- Which Insights met strong counter evidence?
+- Which old views changed?
+- Which Working Theses are becoming clearer?
+- Which Principles actually influenced real work?
+- Which Methods did not work in practice?
+
+## Current Watchlist
+
+- The system should remain source-agnostic.
+- The system should not become a case collection.
+- The system should not become a project management space.
+- The system should not make Harper maintain links manually.
+- DEMO files must stay clearly separated from Harper's real views.
