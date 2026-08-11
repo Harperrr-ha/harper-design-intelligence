@@ -3,40 +3,53 @@
 Status: Seed / Insight / Validated
 Date Created:
 Last Updated:
-Tags:
+Origin Source Type:
+Related Notes:
+
+One file equals one independent thought. Before creating this file, check whether the thought already exists.
 
 ## Current Thought
 
+State the idea in the clearest current form.
+
+## Why This Matters
+
+Why is this worth preserving for Harper's design judgment?
 
 ## Origin
 
-Where did this thought first come from?
-
+Where did the thought first appear? Include source, conversation, project, case, observation, or reflection.
 
 ## Evidence
 
-- Case / Project / Source:
+Add only meaningful support.
 
+- Source / Case / Project:
+- What it supports:
 
-## Counter Evidence
+## Counter Evidence / Limits
 
+What might make this thought incomplete or wrong?
 
-## My Current Conclusion
+## Harper's Current Conclusion
 
+What does Harper currently believe? If not stable, say so.
+
+## Changed My Mind / History
+
+| Date | Previous Position | What Challenged It | New Position |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+## Connections
+
+- Similar existing thoughts:
+- Supporting cases:
+- Project learnings:
+- Working theses:
+- Principle candidate:
+- Method candidate:
 
 ## Open Questions
 
-
-## Related Thoughts
-
-- Cases:
-- Insights:
-- Principles:
-- Methods:
-
-## History
-
-| Date | Change | Why It Changed |
-| --- | --- | --- |
-|  |  |  |
-
+What should be watched next?
