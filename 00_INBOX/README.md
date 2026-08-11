@@ -1,25 +1,34 @@
 # 00_INBOX
 
-Temporary intake area.
+Temporary source-agnostic intake area.
 
-Put raw material here before deciding where it belongs:
+Harper can put anything here without classifying it first:
 
-- AI conversation summaries
-- sudden thoughts
-- work reflections
-- reading notes
-- rough questions
+- Book discussion
+- Brand or design case
+- Article, interview, or report
+- Project reflection
+- Design review
+- Meeting thought
+- AI conversation
+- Observation
+- Idea
+- Question
+- Changed Mind
 
-Do not over-organize here. The inbox exists so new material can be captured quickly.
+The inbox is not the final knowledge asset. It is a holding area until the Agent understands, extracts, compares, judges maturity, and updates the right notes.
 
-## Processing Checklist
+## Agent Processing Rule
 
-When processing an inbox item, ask:
+Before moving or creating anything, ask:
 
-- Is this a Case?
-- Is this an Insight?
-- Is this a Working Thesis?
-- Is this a Project Learning?
-- Is this a Source index item?
-- Does it update an existing note instead of creating a new one?
-- Does it create a conflict or Changed My Mind record?
+- What is the source?
+- What is fact, and what is Harper's judgment?
+- Is there a real Insight, or only a Seed?
+- Does this support existing knowledge?
+- Does this challenge existing knowledge?
+- Is there counter evidence?
+- Is there a Changed My Mind record?
+- Should this update an existing note instead of creating a new one?
+
+Prefer update, connect, validate, and challenge over creating new files.
