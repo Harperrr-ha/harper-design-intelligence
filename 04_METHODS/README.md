@@ -1,26 +1,24 @@
 # 04_METHODS
 
-Practical methods that can guide real work.
+Practical methods that help Harper make better decisions in real work.
 
-Examples:
+A Method is not a Principle rewritten as steps. It should be repeatable, usable, and connected to evidence.
 
-- Brand visual diagnosis method
-- Design brief method
-- Case research method
-- Product opportunity identification method
-- Visual direction judgment method
-- Art Direction method
-- AI image design workflow
+## Method Standard
 
-Each Method must include:
+A Method should answer:
 
 - Purpose
 - When to Use
 - Inputs
 - Steps
 - Decision Criteria
-- Common Mistakes
+- What to Watch For
+- Common Failure Modes
 - Examples
 - Related Principles
+- Evidence of real use or testing
 
-Use `templates/method-template.md` for new methods.
+Do not create a Method just to make the system look complete.
+
+Use `templates/method-template.md` when a judgment has become a repeatable work practice.
