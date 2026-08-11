@@ -1,17 +1,19 @@
 # 03_PRINCIPLES
 
-Stable design principles supported by multiple pieces of evidence.
+Stable design principles supported by multiple sources or real practice.
 
-Do not create a Principle from one case or one exciting idea.
+Principle is not a slogan and not a one-case conclusion.
 
-Each Principle must explain:
+## Promotion Standard
 
-- What I believe
-- Why
-- Evidence
-- Where it applies
-- Where it does not apply
-- Related Insights
-- How it affects design decisions
+A Principle should usually require:
 
-Use `templates/principle-template.md` for new principles.
+- Multiple independent sources or cases
+- Real project learning when available
+- Known counter evidence or limits
+- Clear application conditions
+- Impact on actual design decisions
+
+If these are missing, keep the material as Insight, Validated Insight, or Working Thesis.
+
+Use `templates/principle-template.md` only when the judgment is mature enough to test as a stable principle.
