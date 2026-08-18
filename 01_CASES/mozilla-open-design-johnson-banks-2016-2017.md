@@ -1,8 +1,8 @@
 # Mozilla Open Design × Johnson Banks — Rebrand 2016–2017
 
-Status: Processed
+Status: Processed / Study in progress
 Source Type: CASE
-Date: 2016–2017 project; processed 2026-08-18
+Date: 2016–2017 project; processed 2026-08-18; study updated 2026-08-18
 Source: Mozilla Open Design Blog; Johnson Banks
 Related Notes: `08_SOURCES/source-index.md`
 
@@ -91,6 +91,413 @@ Brand hypothesis
 ```
 
 The boards are most useful when read as **strategic hypotheses and semantic worlds**, not moodboards to imitate aesthetically.
+
+---
+
+## Creative Territory Study — In Progress
+
+This section records the territories one by one while reading them. The purpose is not to summarize the pictures, but to reconstruct **how Johnson Banks makes an abstract brand hypothesis tangible enough to compare, challenge, and eventually design from**.
+
+### Territory 01 — For All
+
+#### Core hypothesis
+
+```text
+Mozilla = standing on the side of everyone.
+The Internet should belong to all of us, not a few.
+```
+
+The central trial narrative is **“An Internet for all.”** This territory is primarily a **belief / worldview** rather than a product proposition. It frames Mozilla around freedom, equality, collective interests, openness, and the Internet as something closer to a public good than a privately controlled asset.
+
+The important move is what happens next: Johnson Banks does not stop at the slogan. The surrounding references ask:
+
+> If “For All” were genuinely the core of Mozilla, what kinds of behaviour, language, organization and visual system should naturally follow from it?
+
+#### How the idea is expanded
+
+**Ideas for everyone**
+
+References such as Raspberry Pi or accessible technologies point toward democratization: capabilities that were once available only to a few can be made available to many.
+
+```text
+For All
+-> democratization
+-> accessibility
+```
+
+This turns a belief into a possible behavioural principle.
+
+**Ideas that can be localised**
+
+A global “for all” brand cannot simply mean one centrally created expression copied everywhere. Different languages, cultures and regions may need their own versions.
+
+```text
+For All
+-> global participation
+-> localisation
+-> regional adaptation
+```
+
+This already begins to imply requirements for the future brand system.
+
+**Brands that can be individualised**
+
+The references explore identities that remain recognizable while allowing people or local groups to create their own versions. That matters because Mozilla is a community, not only a headquarters-controlled corporation.
+
+This raises a system-level question:
+
+> If participation is part of Mozilla's belief, should participation also be possible inside the identity system itself?
+
+**Property of everyone**
+
+Maps, shared infrastructure and other “common” things extend the territory toward common ownership / public good.
+
+```text
+For All
+-> common ownership
+-> public good
+-> Internet as shared territory
+```
+
+The value is not in copying these objects visually. They help test whether the idea has a coherent conceptual world.
+
+**Elements forming a cohesive whole**
+
+Many different pieces combine into one recognizable whole.
+
+This translates “everyone” into a possible visual principle:
+
+```text
+Many -> One
+Difference -> Coherence
+```
+
+Different people, countries, languages and contributions can remain different while still belonging to one Mozilla.
+
+**From patterns: coherence**
+
+Different patterns, textures and materials are used to investigate the same idea at a more formal level: diversity can coexist with a shared order.
+
+Again, the point is not “Mozilla should use patterns.” The question is whether **For All has a generative visual grammar**.
+
+#### What this territory is really testing
+
+The centre is a brand belief:
+
+> The Internet belongs to everyone.
+
+The perimeter pressure-tests what that belief would imply:
+
+```text
+Organization / behaviour
+-> ideas for everyone
+
+Global operation
+-> localisation
+
+Participation
+-> individualisation
+
+Ownership model
+-> common ownership / public good
+
+Visual system
+-> different elements forming a coherent whole
+```
+
+The territory therefore tests whether one abstract belief can generate **behaviour, language, system rules and visual metaphors**.
+
+#### Strength and risk
+
+Strength:
+
+- deeply consistent with Mozilla's values;
+- capable of generating participatory and flexible system logic;
+- broad enough to connect community, openness, access and global relevance.
+
+Risk to keep testing:
+
+- **Is “For All” too universal / generic to make Mozilla distinctive?**
+
+A territory can be true without being sufficiently ownable.
+
+---
+
+### Territory 02 — The Guide
+
+#### Core hypothesis
+
+```text
+Mozilla = your independent / ethical guide to the Internet.
+```
+
+The central trial narrative changes the framing completely. Instead of asking **“Who should the Internet belong to?”**, it asks:
+
+> What is Mozilla's relationship to you as you move through the Internet?
+
+The answer is a brand role:
+
+```text
+Mozilla = independent ally / guide
+```
+
+So unlike `For All`, which is mainly a belief / worldview, `The Guide` is primarily a **relationship and role proposition**.
+
+#### How the idea is expanded
+
+**Understanding terrains**
+
+A guide must understand the terrain before helping anyone navigate it.
+
+Translated to Mozilla:
+
+> Mozilla understands the structures, incentives, data systems and power relationships of the Internet better than an ordinary user can be expected to.
+
+This gives the brand authority to guide.
+
+**Compass / guide**
+
+A guide provides a reliable reference point rather than taking control of the traveller.
+
+This begins to define brand personality:
+
+```text
+independent
+trustworthy
+knowledgeable
+```
+
+Mozilla helps people judge rather than simply telling them what to do.
+
+**Trail blazing**
+
+The Guide can also move ahead and open new paths, not only explain the existing landscape.
+
+```text
+Guide
+-> orientation
+-> exploration
+-> pioneer / change
+```
+
+This pushes the territory beyond passive assistance and toward Mozilla's role in improving the future Internet.
+
+**Decoding / translating**
+
+The Internet is complex. A useful guide can translate difficult systems into understandable language.
+
+This could eventually generate behaviours such as:
+
+- education;
+- editorial explanation;
+- information design;
+- making technology and policy legible to ordinary people.
+
+It is a strong example of a strategic metaphor producing potential content behaviour before producing visual style.
+
+**Direction**
+
+Wayfinding references — arrows, routes, signs, maps — test whether the idea contains a rich visual language of orientation.
+
+The question is not yet whether arrows should become Mozilla graphics. It is whether “Guide” creates enough semantic and formal material to sustain an identity world.
+
+**Navigating the journey**
+
+The lighthouse is a particularly useful metaphor because it does not control the traveller. It provides orientation and a dependable reference.
+
+That fits a possible Mozilla relationship:
+
+> Mozilla should not control your online life; it should help you retain agency and judgment within it.
+
+**Curating the Internet / Ideas**
+
+A guide can also filter, organize and contextualize overwhelming information.
+
+```text
+Guide
+-> curation
+-> organization
+-> explanation
+-> better understanding
+```
+
+This territory therefore has strong potential for editorial and content systems, not only logo design.
+
+#### What this territory is really testing
+
+The central hypothesis is:
+
+> Mozilla is an independent Internet guide.
+
+The perimeter asks what a credible guide must actually do:
+
+```text
+Understand terrain
+-> know the Internet
+
+Compass
+-> offer a point of judgment
+
+Trail blazing
+-> explore better directions
+
+Decode / translate
+-> make complexity understandable
+
+Direction
+-> help orient decisions
+
+Navigation
+-> accompany without controlling
+
+Curation
+-> filter and organize ideas
+```
+
+So the board is building an entire **role model**, not merely collecting map imagery.
+
+#### Strength and risk
+
+Strength:
+
+- gives Mozilla a clear relationship to the user;
+- has strong personality potential: independent, trustworthy, knowledgeable;
+- generates content, editorial, service and visual possibilities;
+- contains rich semantic material for navigation, translation and orientation.
+
+Risk to keep testing:
+
+- **Does “Guide” make Mozilla sound too much like a helper for using the Internet, rather than an organization actively changing the Internet?**
+
+Again, the question is not whether the territory is true. It is whether it can contain the whole brand.
+
+---
+
+### Comparing For All and The Guide
+
+| Dimension | For All | The Guide |
+| --- | --- | --- |
+| Core question | Who should the Internet belong to? | What is Mozilla's relationship to the user? |
+| Core answer | Everyone | Independent guide / ally |
+| Strategic type | Belief / worldview | Brand role / relationship |
+| Mozilla behaves like | Public / community force | Navigator / trusted ally |
+| Emphasis | Equality, openness, participation | Trust, knowledge, guidance |
+| Possible system logic | Diversity, modules, participation, coherent whole | Navigation, translation, orientation, curation |
+| Main risk | True but too broad / generic | Clear but potentially too passive / narrow |
+
+The important point is that **both can be true at the same time**. Mozilla can believe in an Internet for all and also behave as an independent guide.
+
+Therefore the strategic task is not:
+
+> Which board is prettier?
+
+It is closer to:
+
+> Which idea is fundamental enough to contain the other truthful aspects of Mozilla, distinctive enough to belong to Mozilla, and generative enough to support years of behaviour, language and design?
+
+---
+
+### What the Territory Boards Are Actually Doing
+
+Today's clearest learning is that these are **not seven visual styles** and not a disguised logo competition.
+
+They are seven alternative ways of interpreting the same organization — seven **possible brand worlds**.
+
+The method can be described as:
+
+```text
+Working brand definition
+-> isolate one strategic hypothesis
+-> push it toward an extreme
+-> give it language
+-> connect it to behaviours
+-> find semantic analogies
+-> test possible visual metaphors
+-> expose what it explains well
+-> expose what it cannot contain
+-> compare against other possible worlds
+```
+
+This is what it means to **find the boundary of an idea**.
+
+Instead of asking only whether an idea sounds correct, the team asks:
+
+> If we really built Mozilla around this idea, what would happen all the way down?
+
+For `For All`:
+
+```text
+Can it generate copy? Yes.
+Can it imply behaviour? Yes.
+Can it imply system rules? Yes.
+Can it imply visual logic? Yes.
+But is it distinctive enough?
+```
+
+For `The Guide`:
+
+```text
+Can it generate content? Yes.
+Can it generate behaviour? Yes.
+Can it create a specific personality? Yes.
+Can it generate a visual world? Yes.
+But does it understate Mozilla's activist / change-making role?
+```
+
+The territory is valuable partly because its **weakness becomes visible only after the idea is made tangible**.
+
+---
+
+### Study Method Extracted From These Two Boards
+
+A useful way to read the remaining five territories is:
+
+```text
+1. Core Hypothesis
+   What single interpretation of Mozilla is being proposed?
+
+2. Strategic Type
+   Is it a belief, role, enemy, promise, behaviour, movement, etc.?
+
+3. Trial Narrative
+   What story does the hypothesis allow Mozilla to tell?
+
+4. Semantic World
+   What analogies and associations naturally belong to it?
+
+5. Behavioural Consequences
+   If this were true, how should Mozilla act?
+
+6. System Consequences
+   What would this imply for participation, flexibility, content or governance?
+
+7. Visual Generativity
+   What kinds of visual principles / metaphors could grow from it?
+
+8. Boundary / Failure Mode
+   Where does the idea become too broad, too narrow, too generic or misleading?
+
+9. What Other Truths Can It Contain?
+   Can this core idea absorb Mozilla's other important qualities, or does it exclude too much?
+```
+
+This is more useful than studying the boards as moodboards because it reconstructs the **strategy-to-design translation mechanism**.
+
+Next territories to continue with:
+
+- `03 — The Protector`
+- `04 — For Good`
+- `05 — Change Makers`
+- `06 — For Freedom`
+- `07 — The Fight`
+
+### Current case-supported learning from the territory study
+
+> **Do not rush from brand research to one polished strategy sentence. Build several plausible strategic worlds, make each one tangible, and compare what each world enables and excludes.**
+
+This is currently evidence from one case. It should remain a **case-supported learning / method candidate**, not a Principle, until compared with other identity projects or applied in real practice.
+
+---
 
 ### 3. Feedback changed the framing
 
@@ -216,6 +623,8 @@ This level of process visibility makes the case unusually strong evidence for st
 
 The seven early boards are better understood as competing hypotheses about what Mozilla could mean. Their value is in defining different semantic and behavioural worlds that can later produce different design routes.
 
+The close reading of `For All` and `The Guide` sharpens this point: two territories can both be true and still function differently. One may define a **worldview**, another a **brand role**. The purpose of divergence is not to find seven prettier ways to say the same thing, but to expose genuinely different organizing ideas.
+
 ### 2. A good process preserves divergence long enough to learn
 
 The process repeatedly expands and contracts:
@@ -229,6 +638,8 @@ The process repeatedly expands and contracts:
 ```
 
 The numbers themselves are not a method to copy. What matters is that divergence is used to expose meaningful alternatives before convergence.
+
+The territory study adds another layer: divergence is useful because **an idea's limitations often become visible only after it has been pushed into language, behaviour and visual possibility**.
 
 ### 3. Iteration can change the idea, not only improve execution
 
@@ -244,7 +655,16 @@ This is worth connecting to future cases about recognition, distinctive assets, 
 
 The useful goal for this case is not to memorize the final identity or imitate the visual language. It is to reconstruct **how an international branding project moves from diagnosis to design judgment**.
 
-When rereading the source, annotate each stage using:
+Current detailed study has reached:
+
+```text
+Creative Strategy On View
+-> Territory 01: For All
+-> Territory 02: The Guide
+-> next: Territory 03: The Protector
+```
+
+When rereading the source, annotate each project stage using:
 
 ```text
 Observation
@@ -255,6 +675,20 @@ Observation
 -> Validation
 ```
 
+For individual territory boards, use the more specific lens:
+
+```text
+Core Hypothesis
+-> Strategic Type
+-> Trial Narrative
+-> Semantic World
+-> Behavioural Consequences
+-> System Consequences
+-> Visual Generativity
+-> Boundary / Failure Mode
+-> What Other Truths Can It Contain?
+```
+
 This makes the case comparable with future brand projects instead of leaving it as an isolated story.
 
 ## Transferable Learning
@@ -263,6 +697,10 @@ Current case-supported learnings:
 
 - Do not collapse a brand problem into a logo problem too early.
 - Creative territories can function as strategic hypotheses before visual routes exist.
+- A territory should be pushed far enough to reveal behaviour, language, system logic and visual possibility — not judged only as a sentence.
+- Different territories can both be true; the decision is which idea is core, distinctive and generative enough to organize the rest.
+- The weakness of an idea is often discovered by making it tangible, not by debating it abstractly.
+- Do not rush from research to one polished strategy statement; multiple plausible strategic worlds can reveal what each interpretation enables and excludes.
 - Feedback can legitimately reopen diagnosis instead of only editing execution.
 - Selection and iteration should preserve the reason a route is valuable, not merely its appearance.
 - Research is one input into identity decisions; it does not automatically substitute for design judgment.
@@ -289,6 +727,13 @@ Designing in the Open
 -> Branding in a New Land
 -> Our Brand Personality
 -> Creative Strategy + 7 themes
+   -> For All [studied]
+   -> The Guide [studied]
+   -> The Protector [next]
+   -> For Good
+   -> Change Makers
+   -> For Freedom
+   -> The Fight
 -> What We've Learned
 -> Going Deeper
 -> RSVP
@@ -308,6 +753,7 @@ Designing in the Open
 - Existing Insight challenged: none.
 - Working Thesis: none yet.
 - Principle Candidate: **Research informs design judgment rather than replacing it** — not mature enough to promote.
+- Method Candidate: **Strategic territory pressure-testing / possible-world comparison** — now clearer through `For All` and `The Guide`, but not mature enough to promote.
 - Method Candidate: a future brand-case reading / decision-chain analysis method — not mature enough to promote.
 - Source Index: `08_SOURCES/source-index.md`
 
@@ -318,3 +764,6 @@ Designing in the Open
 - What evidence determined when a strategy territory was worth dropping versus combining?
 - How should a designer balance brand-specific meaning against broad consumer preference when research conflicts?
 - Can the `Observation -> Insight -> Strategic Decision -> Creative Territory -> Design Decision -> Validation` lens be validated across other high-quality identity cases?
+- Across all seven territories, which ideas are mainly beliefs, which are brand roles, which define an opponent, and which imply behaviour?
+- Which territory best contains Mozilla's other truths without becoming generic?
+- Can the territory pressure-test method transfer into a real Harper / NOCLiving strategy problem without becoming artificial framework work?
