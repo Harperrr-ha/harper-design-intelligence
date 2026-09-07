@@ -114,6 +114,12 @@ Monzo’s own web-design-system discussion shows why strong brand assets should 
 
 ## Interpretation — from our discussion
 
+### Most Important Development
+
+> **一个真正 design-led 的品牌，不是拥有漂亮的视觉，而是拥有一套持续产生正确设计判断的组织能力。**
+
+This is the strongest judgment to keep from the discussion. The important shift is from seeing brand strength as a finished identity system to seeing it as an organisation’s ability to repeatedly make coherent, high-quality design decisions over time.
+
 ### A. A mature brand system is not “everything looks the same”
 
 A useful distinction from the discussion:
@@ -216,11 +222,11 @@ This is different from both “never compromise” and “business always wins.�
 
 ## Harper’s Current Judgment
 
-No settled personal judgment is recorded yet.
+Harper explicitly adopts the following as the clearest current judgment from this case:
 
-The current conversation shows that this case was worth a deeper reading, but the strongest conclusions above are **discussion-derived interpretations**, not yet confirmed as Harper’s stable view.
+> **一个真正 design-led 的品牌，不是拥有漂亮的视觉，而是拥有一套持续产生正确设计判断的组织能力。**
 
-Do not promote them automatically to Principle or Method.
+This is recorded as a current **Insight-level judgment**, not yet a Principle. It should be tested against more independent cases and, where possible, Harper’s own practice before any maturity upgrade.
 
 ## Changed My Mind
 
