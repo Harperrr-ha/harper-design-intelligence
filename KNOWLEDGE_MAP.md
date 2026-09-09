@@ -132,12 +132,25 @@ Questions to watch:
 - What improves design decisions before design starts?
 - Which review problems are actually brief problems?
 - Which AI workflows improve Harper's judgment instead of only producing output?
+- Which kinds of friction should remain when AI makes visual execution almost instant?
+- How can Harper turn “this feels wrong” into a judgment that can be explained and tested?
 - How can product development and market discovery run in parallel?
 - When should a product line pause development but keep learning?
 
 Current linked notes:
 
 - `06_PROJECT_LEARNINGS/nocliving-from-brand-presentation-to-market-discovery.md`
+- `02_INSIGHTS/ai-makes-judgment-more-important-than-tool-mastery.md`
+
+Current personal practice chain:
+
+```text
+AI accelerates visual execution
+    -> tool difficulty is no longer the same as design ability
+    -> judgment becomes more visible and more important
+    -> taste must be explained and tested against people, context and results
+    -> future method candidate: an AI workflow that preserves thinking
+```
 
 ## Active Real Chain
 
