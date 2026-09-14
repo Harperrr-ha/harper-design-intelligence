@@ -109,10 +109,7 @@ Questions to watch:
 
 Current linked notes:
 
-- [从「觉得舒服」到主动组织画面](06_PROJECT_LEARNINGS/from-aesthetic-preference-to-compositional-judgment-2026-09.md)
-- [构图研究图文证据](08_SOURCES/harper-composition-study-2026-09/README.md)
-
-New connection, 2026-09-14: 对参考的观看感受 → 整张构图比较 → 曲线、间距、收放、空白与边界的判断 → 为 PRACTICE 中 AI 与判断力的 Insight 提供实践证据。生成变量有干扰，跨媒介和独立重现尚待验证；不提升为 Principle / Method。
+- None yet
 
 ### PRACTICE
 

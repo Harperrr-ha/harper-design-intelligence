@@ -32,10 +32,6 @@ Experience / Source
         -> Method
 ```
 
-## 最近整理 · 2026-09-14
-
-[从「觉得舒服」到主动组织画面：曲线、疏密与留白](06_PROJECT_LEARNINGS/from-aesthetic-preference-to-compositional-judgment-2026-09.md) — 记录 Harper 如何从观看感受形成具体构图判断，保留被纠正的解释与适用边界。配套 [参考、草稿与实验图](08_SOURCES/harper-composition-study-2026-09/README.md)，本批先整理构图主线。
-
 ## The Simplest Way To Use This System
 
 Harper 不需要先判断材料属于哪个文件夹。

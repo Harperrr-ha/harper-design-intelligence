@@ -27,7 +27,3 @@ Project Learning keeps what should survive after the project ends.
 - Could it eventually change a Principle or Method?
 
 Use `templates/project-learning-template.md` for new project learnings.
-
-## Current Learnings
-
-- [从「觉得舒服」到主动组织画面：曲线、疏密与留白](from-aesthetic-preference-to-compositional-judgment-2026-09.md) — 2026-09-14；构图关系、比较证据和判断边界。
