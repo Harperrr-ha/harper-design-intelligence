@@ -2,7 +2,7 @@
 
 > Status: INSIGHT  
 > Date Created: 2026-09-09  
-> Last Updated: 2026-09-09  
+> Last Updated: 2026-09-14  
 > Origin Source Type: REFLECTION / AI CONVERSATION  
 > Related Notes: `05_WORKING_THESES/harper-personal-ip-positioning.md`
 
@@ -95,6 +95,14 @@ AI 不只是威胁，也不是替我完成设计的捷径。它更像一种放�
 - **传统工具带来的长期体验：** 复杂软件曾经阻挡想法落地，使执行困难被误读为整体能力不足。AI 降低这个障碍后，想法与判断可以被更直接地观察。
 - **已有个人 IP 论题：** `harper-personal-ip-positioning.md` 已把“学习看、学习判断、学习建立东西”定义为长期母题；这次对话为“为什么判断力重要”提供了来自自身经历的证据。
 
+### 2026-09-14 · 新增实践证据：构图比较中的判断
+
+[曲线、疏密与留白的项目学习](../06_PROJECT_LEARNINGS/from-aesthetic-preference-to-compositional-judgment-2026-09.md) 使“把我觉得不对变成可讨论的理由”有了具体例子。Harper 从自然延伸、细微疏密、局部收紧与空白，逐渐辨认画面关系，并纠正助手把构图学习过早拉回兔子改稿的推进。
+
+这组实践同时给 AI 比较加了限制：同一次生成会改变额外变量，不能把偏好包装成严格实验结论；“还好”也不能升级为“更喜欢”。它支持的是本条 Insight 中“主动保留提问、比较与解释”的方向；不证明商业有效性，也尚未证明能够独立重现或跨媒介迁移。
+
+**Maturity: No maturity upgrade.** 2026-09-09 的个人认知记录保持独立；本次项目仅作为关联证据，不改写原来的经历。
+
 ## Counter Evidence / Limits
 
 ### 判断不能只靠自我确信
@@ -147,4 +155,3 @@ AI 不只是威胁，也不是替我完成设计的捷径。它更像一种放�
 - 在 AI 工作流里，需要主动保留哪些思考摩擦？
 - 哪些传统执行能力仍然是理解媒介和控制质量所必需的？
 - 如何用真实项目持续证明，而不只是相信自己的判断？
-
