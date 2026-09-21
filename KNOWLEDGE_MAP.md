@@ -108,6 +108,7 @@ Questions to watch:
 Current linked notes:
 
 - `02_INSIGHTS/not-every-product-needs-the-same-brand-role.md`
+- `02_INSIGHTS/collection-design-is-world-building-not-asset-repetition.md`
 - `06_PROJECT_LEARNINGS/nocliving-from-brand-presentation-to-market-discovery.md`
 - `05_WORKING_THESES/pao-from-bottle-to-styling-object.md`
 
@@ -132,6 +133,7 @@ Questions to watch:
 Current linked notes:
 
 - `01_CASES/ytri-brand-world-building-2026.md`
+- `02_INSIGHTS/collection-design-is-world-building-not-asset-repetition.md`
 - `05_WORKING_THESES/pao-from-bottle-to-styling-object.md`
 
 ### PRACTICE
@@ -211,6 +213,14 @@ Together
     -> Brand strength may require both a generative source and the capability to keep making coherent judgments
 ```
 
+```text
+Starbucks seasonal drinkware observation
+    -> coherence survives major SKU and form variation
+    -> shared world is carried by palette, motif hierarchy, material expression and object personality
+    -> Insight: Collection Design Is World-Building, Not Asset Repetition
+    -> Method Candidate: six-layer collection review framework, not yet mature
+```
+
 ## Cross-Area Connections To Notice
 
 - A Source can support multiple Insights across different areas.
@@ -223,6 +233,8 @@ Together
 - Ytri suggests that Brand World Building can begin with a real source of meaning rather than an invented visual theme.
 - Monzo and Ytri form a useful pair: concept can generate coherent possibilities, but organisational capability is needed to sustain coherent judgment.
 - PAO's current “Bottle → Styling Object” direction should remain a Working Thesis until behaviour and product reality validate it.
+- Collection coherence may come from shared world-level rules rather than repeated assets; this currently links BRAND world-building, PRODUCT roles and VISUAL art direction.
+- The six-layer collection framework (World / Palette / Hero Motif / Micro Motifs / Surface / Object Personality) is an Insight-level review framework, not yet a Principle or Method.
 
 ## Review Questions
 
