@@ -13,13 +13,25 @@ Brand · Culture · Design Judgment
 
 | 文件 | 用途 |
 | --- | --- |
-| [01_VISION/series_anchor.md](01_VISION/series_anchor.md) | 系列母题、内容定位、结构边界和未来研究轴 |
+| [01_VISION/series_anchor.md](01_VISION/series_anchor.md) | 2026-10-18 品牌文化研究母题及已有研究方向（不是整个账号的主题上限） |
+| [01_VISION/content_creation_and_ai_collaboration.md](01_VISION/content_creation_and_ai_collaboration.md) | 内容创作理念、AI 主动探索原则、受众与知识双线驱动 |
+| [04_EDITORIAL/topic_discovery_sources_and_protocol.md](04_EDITORIAL/topic_discovery_sources_and_protocol.md) | **新选题从这里开始：国内外受众需求、心理学/跨学科研究资源、访问限制和研究工作流** |
 | [02_RESEARCH/2026-10-18_discussion_evolution.md](02_RESEARCH/2026-10-18_discussion_evolution.md) | 完整的讨论推进、被否定的方向、真正形成的认知 |
 | [02_RESEARCH/references_and_boundaries.md](02_RESEARCH/references_and_boundaries.md) | 原著出处、案例资料、作者论点与我们的推断的界线 |
 | [03_EPISODES/EP01_brand-cultural-value/brief.md](03_EPISODES/EP01_brand-cultural-value/brief.md) | 第一集的研究问题、前因后果与表达路线 |
 | [03_EPISODES/EP01_brand-cultural-value/approved_script.md](03_EPISODES/EP01_brand-cultural-value/approved_script.md) | 2026-10-18 已认可的完整旁白稿，不为压缩时长而改动 |
 | [04_EDITORIAL/editorial_method.md](04_EDITORIAL/editorial_method.md) | 从研究到表达的工作方法、风格与检验标准 |
 | [05_FUTURE/future_research_questions.md](05_FUTURE/future_research_questions.md) | 可独立展开的后续问题，不强行做连续剧式课程 |
+
+## 2026-10-21｜新选题研究机制（重要补充）
+
+Harper View 的整体内容定位不应被 2026-10-18 的品牌文化母题限制。它关注审美理解、个人观看经验、设计判断、品牌及其文化意义；**面向设计师以外的普通观众，不是设计师教学或纯时尚、纯品牌营销账号。**
+
+每次新选题先从「**真实受众需求**」和「**独立外部知识研究**」两条线探索，再寻找有认知增量、可信证据、个人观点及视觉叙事可能性的交集。国内平台数据与海外趋势互为线索、不可直接替代；心理学及其他相关学科须作为固定检索范围。研究有趣不等于适合视频，**先判断是否值得讲，再写文案**。
+
+- 操作与来源： [选题发现资源地图与研究协议](04_EDITORIAL/topic_discovery_sources_and_protocol.md)
+- 创作理念：[内容创作理念与 AI 协作原则](01_VISION/content_creation_and_ai_collaboration.md)
+- 写作与存档：[编辑方法](04_EDITORIAL/editorial_method.md)
 
 ## 认识这次最重要的变化
 
