@@ -221,6 +221,17 @@ Starbucks seasonal drinkware observation
     -> Method Candidate: six-layer collection review framework, not yet mature
 ```
 
+```text
+È Bologna — Bartoli & Pastore
+    -> city identity includes many different personal perceptions
+    -> participatory expression becomes a strategic design requirement
+    -> cultural archetypes become geometric alphabet + constrained generative rules
+    -> lesson: cultural strategy can shape how a VI system operates, not merely how it looks
+    -> TAEMOO test: stable master identity + open but governed local-culture content system
+    -> Case: 01_CASES/bologna-generative-city-identity-bartoli-pastore-2013.md
+    -> Principle Candidate: not yet (requires practical validation)
+```
+
 ## Cross-Area Connections To Notice
 
 - A Source can support multiple Insights across different areas.
